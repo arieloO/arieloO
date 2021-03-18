@@ -24,4 +24,4 @@ At the end of 2019, a few months before pandemic, I decided to retrain as a deve
 - 💬 Ask me about good music to code with !
 - 📫 How to reach me: @ariel_is_dev on twitter.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I studied sound engineering and music production, I worked as a sound engineer during 5 years before starting a retraining to web development.
+- ⚡ Fun fact: I studied sound engineering and music production, I worked as a sound engineer during 5 years before I seriously started retraining to web development.
