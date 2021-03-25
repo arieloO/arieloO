@@ -14,7 +14,7 @@
 -->
 
 
-I'm a new born Front-End Web Developer, I started learnig web development 4 years ago as a hobby.
+I'm a new born Front-End Web Developer, I started learnig web development a few years ago as a hobby.
 At the end of 2019, a few months before pandemic, I decided to retrain as a developer and enrolled the Treehouse "Front-End Web Development" course track. Months later, I'm still learnig and practicing day by day, and have just startes looking for opportunities near Paris, France.
 
 - 🔭 I’m currently working on getting HIRED & building a small chat application !
