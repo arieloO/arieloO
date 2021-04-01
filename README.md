@@ -16,7 +16,9 @@
 <!-- I'm a new born Front-End Web Developer, I started learning web development a few years ago as a hobby.
 At the end of 2019, a few months before pandemic, I decided to retrain as a developer and enrolled the Treehouse "Front-End Web Development" course track. Months later, I'm still learnig and practicing day by day, and have just started looking for opportunities near Paris, France. -->
 
-- 🔭 I’m currently working on building a small chat application with node.js & socket.io!
+Front-End Web Developer - open to work
+
+- 🔭 I’m currently working on : building a small chat application with node.js & socket.io !
 - 🌱 I’m currently learning node.js & express.
 - 👯 I’m looking to collaborate on ReactJs projects!
 - 🤔 I’m looking for help with recruitment processes & javascript stuff...
