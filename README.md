@@ -19,7 +19,7 @@ At the end of 2019, a few months before pandemic, I decided to retrain as a deve
 Front-End Web Developer - open to work
 
 - 🔭 I’m currently working on : building my first REST API with Sequelize and Express.js !
-- 🤓 Last project I made : small chat application with node.js & socket.io you can visit here : [messaging_app]: https://messaging-app-client-kgvp0buv6-arieloo.vercel.app/
+- 🤓 Last project I made : small chat application with node.js & socket.io you can visit here : [messaging_app](https://messaging-app-client-kgvp0buv6-arieloo.vercel.app/)
 - 🌱 I’m currently learning node.js & express.
 - 👯 I’m looking to collaborate on ReactJs projects!
 - 🤔 I’m looking for help with recruitment processes & javascript stuff...
