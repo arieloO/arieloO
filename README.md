@@ -16,12 +16,12 @@
 <!-- I'm a new born Front-End Web Developer, I started learning web development a few years ago as a hobby.
 At the end of 2019, a few months before pandemic, I decided to retrain as a developer and enrolled the Treehouse "Front-End Web Development" course track. Months later, I'm still learnig and practicing day by day, and have just started looking for opportunities near Paris, France. -->
 
-Front-End Web Developer - open to work
+Front-End Web Developer - curently working at Premier Octet
 
-- 🔭 I’m currently working on : building my first REST API with Sequelize and Express.js !
+- 🔭 I’m currently working on Next.js projects.
 - 🤓 Last project I made : small chat application with node.js & socket.io you can visit here : [messaging_app](https://messaging-app-client-kgvp0buv6-arieloo.vercel.app/)
-- 🌱 I’m currently learning node.js & express.
-- 👯 I’m looking to collaborate on ReactJs projects!
+- 🌱 I’m currently learning node.js
+- 👯 I’m looking to collaborate on React projects!
 - 🤔 I’m looking for help with recruitment processes & javascript stuff...
 - 💬 Ask me about good music to code with!
 - 📫 How to reach me: @ariel_is_dev on twitter.
