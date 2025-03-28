@@ -19,11 +19,10 @@ At the end of 2019, a few months before pandemic, I decided to retrain as a deve
 Front-End Web Developer - curently working at Premier Octet
 
 - 🔭 I’m currently working on React Native & Next.js projects
-- 🤓 Last project I made : small chat application with node.js & socket.io you can visit here : [messaging_app](https://messaging-app-client-kgvp0buv6-arieloo.vercel.app/)
-- 🌱 I’m currently learning node.js & getting better at TypeScript
-- 👯 I’m looking to collaborate on React projects!
+- 🤓 Last project I worked on : www.photobooth-ai.app
+- 🌱 I’m currently learning (period) .
 - 🤔 I’m frequently looking for help with TypeScript & back-end stuff...
-- 💬 Ask me about good music to code with!
-- 📫 How to reach me: @ariel_is_dev on twitter.
+- 💬 Ask me about good music to code along !
+- 📫 How to reach me: [@arieloo.bsky.social](https://bsky.app/profile/arieloo.bsky.social)
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I studied sound engineering and music production, I worked as a sound engineer during 5 years before I seriously started retraining to web development. 
+- ⚡ Fun fact: I got hooked on programing past 25yo by completing all Human Resource Machine size & speed challenges.
