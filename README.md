@@ -19,7 +19,7 @@ At the end of 2019, a few months before pandemic, I decided to retrain as a deve
 Front-End Web Developer - curently working at Premier Octet
 
 - 🔭 I’m currently working on React Native & Next.js projects
-- 🤓 Last project I worked on : www.photobooth-ai.app
+- 🤓 Last project I worked on : Vroomly mobile app
 - 🌱 I’m currently learning (period) .
 - 🤔 I’m frequently looking for help with TypeScript & back-end stuff...
 - 💬 Ask me about good music to code along !
